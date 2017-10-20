@@ -11,6 +11,7 @@ http://blog.csdn.net/leixiaohua1020
 本工程包含两个基于FFmpeg的libavdevice的例子：
 simplest_ffmpeg_grabdesktop：屏幕录制。
 simplest_ffmpeg_readcamera：读取摄像头。
+simplest_ffmpeg_AudioVidoWin:wind下录制音视频的例子
 
 
 This Solutions contains 2 examples based on FFmpeg's libavdevice:
